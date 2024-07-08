@@ -1,4 +1,4 @@
-# QR_code_scanner
+# QR_code_scanner_using_raspberrypi4
 
 Overview
 This project demonstrates the development of a QR Code Scanner using a Raspberry Pi and the Pi Camera module. During the course of this project, I refined my Python programming and image processing skills, gaining a deeper understanding of software and hardware integration.
